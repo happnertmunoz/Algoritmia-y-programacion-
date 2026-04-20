@@ -1,0 +1,4 @@
+DERROTA: No adivinó el 79 (Nivel: 7 intentos).
+VICTORIA: Adivinó el 87 (Nivel: 10 intentos).
+DERROTA: No adivinó el 53 (Nivel: 5 intentos).
+DERROTA: No adivinó el 42 (Nivel: 5 intentos).
